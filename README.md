@@ -205,4 +205,9 @@ Advanced deep learning models
 Blockchain transaction monitoring
 
 Multi-currency support
-
+<img width="1352" height="597" alt="Image" src="https://github.com/user-attachments/assets/aba84271-2961-47cb-97a1-37544e466f53" />
+<img width="1302" height="544" alt="Image" src="https://github.com/user-attachments/assets/944b336e-daec-4209-a417-04108fd8853d" />
+<img width="1302" height="544" alt="Image" src="https://github.com/user-attachments/assets/43220252-3c15-43d3-978c-94f2126f0390" />
+<img width="1302" height="544" alt="Image" src="https://github.com/user-attachments/assets/43eea7da-3197-430d-a156-e75b567b3d2e" />
+<img width="1302" height="544" alt="Image" src="https://github.com/user-attachments/assets/e67755d9-6938-4829-afa7-ee9a7740364c" />
+<img width="1349" height="568" alt="Image" src="https://github.com/user-attachments/assets/558b9c7f-5561-4697-8794-510c8a8c559e" />
